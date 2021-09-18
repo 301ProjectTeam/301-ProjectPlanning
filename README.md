@@ -1,6 +1,8 @@
-### ***Susan Hargus &middot; Ian Whitmore &middot; Misti Dinzy***
-
 # 301 Project Agreement - September 2021
+
+### ***[Susan Hargus](susan.md) &middot; [Ian Whitmore](ian.md) &middot; [Misti Dinzy](misti.md)***
+
+_____
 
 [Project Guidelines](https://mistidinzy.github.io/301-ProjectPlanning/project-guidelines.html) &middot;
 [Project Requirements](https://mistidinzy.github.io/301-ProjectPlanning/project-guidelines.html#grading) &middot;
