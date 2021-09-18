@@ -2,9 +2,10 @@
 
 # 301 Project Agreement - September 2021
 
-_____
-
-[Project Guidelines](https://mistidinzy.github.io/301-Project/project-guidelines.html) &middot; [Project Requirements](https://mistidinzy.github.io/301-Project/project-guidelines.html#grading) &middot; [Resources](https://mistidinzy.github.io/301-Project/resources.html) &middot; [Trello](https://trello.com/b/KuDlJ9PD/301-project)
+[Project Guidelines](https://mistidinzy.github.io/301-ProjectPlanning/project-guidelines.html) &middot;
+[Project Requirements](https://mistidinzy.github.io/301-ProjectPlanning/project-guidelines.html#grading) &middot;
+[Resources](https://mistidinzy.github.io/301-ProjectPlanning/resources.html) &middot;
+[Trello](https://trello.com/b/KuDlJ9PD/301-project)
 
 _____
 

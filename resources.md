@@ -1,6 +1,6 @@
 # Resources
 
-[Home](https://mistidinzy.github.io/301-Project/)
+[Home](https://mistidinzy.github.io/301-ProjectPlanning/)
 
 _____
 
