@@ -1,6 +1,6 @@
 # Project Guidelines
 
-[Home](README.md)
+[Home](https://mistidinzy.github.io/301-Project/)
 
 _____
 
