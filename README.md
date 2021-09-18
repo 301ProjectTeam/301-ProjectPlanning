@@ -1,10 +1,10 @@
 # 301 Project Agreement - September 2021
 
-## ***Susan Hargus ✦ Ian Whitmore ✦ Misti Dinzy***
+## ***Susan Hargus &middot; Ian Whitmore &middot; Misti Dinzy***
 
 _____
 
-[Project Guidelines](project-guidelines.md) &middot; [Resources](resources.md)
+[Project Guidelines](project-guidelines.md) &middot; [Resources](resources.md) &middot; [Trello](https://trello.com/b/KuDlJ9PD/301-project)
 
 _____
 
