@@ -4,7 +4,7 @@
 
 _____
 
-[Project Guidelines](project-guidelines.md)
+[Project Guidelines](project-guidelines.md) &middot; [Resources](resources.md)
 
 _____
 
