@@ -1,12 +1,12 @@
 # Project Guidelines
 
+<a id="top"></a>
+
 [Home](https://mistidinzy.github.io/301-ProjectPlanning/)
 
 _____
 
 Welcome to Final Projects! Here is a list of industry best practices for proper Git and GitHub workflow with your project team.
-
-<a id="top"></a>
 
 - [Planning phase](#planning-phase)
   - [User Stories](#user-stories)
