@@ -5,6 +5,7 @@
 _____
 
 [Project Guidelines](project-guidelines.md)
+
 _____
 
 ## Cooperation Plan
