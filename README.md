@@ -1,6 +1,6 @@
-# 301 Project Agreement - September 2021
+### ***Susan Hargus &middot; Ian Whitmore &middot; Misti Dinzy***
 
-## ***Susan Hargus &middot; Ian Whitmore &middot; Misti Dinzy***
+# 301 Project Agreement - September 2021
 
 _____
 
