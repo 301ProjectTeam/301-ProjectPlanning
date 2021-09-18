@@ -4,7 +4,7 @@
 
 _____
 
-[Project Guidelines](project-guidelines.md) &middot; [Resources](resources.md) &middot; [Trello](https://trello.com/b/KuDlJ9PD/301-project)
+[Project Guidelines](project-guidelines.md) &middot; [Project Requirements](#grading) &middot; [Resources](resources.md) &middot; [Trello](https://trello.com/b/KuDlJ9PD/301-project)
 
 _____
 
