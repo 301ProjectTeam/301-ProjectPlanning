@@ -24,3 +24,7 @@
 ### Stretch Goals
 
 * The user can access a fun sandwich trivia page to learn more about the history of the sandwich.
+
+_____
+
+[Home](https://mistidinzy.github.io/301-ProjectPlanning/)
