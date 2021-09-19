@@ -4,6 +4,7 @@
 
 _____
 
+[Project Pitch](pitch.md) &middot;
 [Project Guidelines](https://mistidinzy.github.io/301-ProjectPlanning/project-guidelines.html) &middot;
 [Project Requirements](https://mistidinzy.github.io/301-ProjectPlanning/project-guidelines.html#grading) &middot;
 [Resources](https://mistidinzy.github.io/301-ProjectPlanning/resources.html) &middot;
