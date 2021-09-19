@@ -21,15 +21,18 @@ _____
   
   **Susan**
   * Visually-oriented; Eye for aesthetically pleasing design.
-  * Flexible, open-minded.
+  * Flexible, open-minded; Compassionate listener.
+  * Writing stylistic, inviting copy/content.
 
   **Ian**
   * Great communication.
-  * Reliable team-player.
+  * Reliable and positive team-player.
+  * Excellent code contributions.
 
   **Misti**
   * Organized; Good project management.
   * Staying on task, focused.
+  * Copy and format editing.
 
 #### Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 
