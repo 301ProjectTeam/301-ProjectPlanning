@@ -13,71 +13,63 @@ _____
 
 ## Cooperation Plan
 
-Every person on your team is an asset. This is your chance to discover the hidden strengths and areas for growth for each team member.
+*Every person on your team is an asset. This is your chance to discover the hidden strengths and areas for growth for each team member.*
 
-*Describe at least:*
-
-* What are the key strengths of each person on the team?
+#### What are the key strengths of each person on the team?
   
-  Susan
+  **Susan**
   * Visually-oriented; Eye for aesthetically pleasing design.
   * Flexible, open-minded.
 
-  Ian
+  **Ian**
   * Great communication.
   * Reliable team-player.
 
-  Misti
+  **Misti**
   * Organized; Good project management.
   * Staying on task, focused.
 
-* Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
-  * Commit to strong communication
-  * Utilize Trello for organization
-  * Help each other when needed
-  * Follow Agile process, including Stand-Ups
+#### Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
+
+  > * Commit to strong communication
+  > * Utilize Trello for organization
+  > * Help each other when needed
+  > * Follow Agile process, including Stand-Ups
 
 _____
 
 ## Conflict Plan
 
-Your team should agree on a process for handing disagreements, should they arise. It is better to have a plan in place ahead of time so you can all refer back to it when necessary.
+*Your team should agree on a process for handing disagreements, should they arise. It is better to have a plan in place ahead of time so you can all refer back to it when necessary.*
 
-  > If/when conflicts arise, we will be direct and mindful in communicating with each other. If we are not able to figure it out amongst ourselves, we will involve help from Keith, Craig and/or Stacey.
+  > If conflicts arise, we will be direct and mindful in communicating with each other. If we are not able to figure it out amongst ourselves, we will involve help from Keith, Craig and/or Stacey.
 
 _____
 
 ## Communication Plan
 
-Before beginning to tackle the project, determine how your group will communicate with each other. This is not an individual effort. Make sure everyone feels comfortable with the identified methods of speaking up.
+*Before beginning to tackle the project, determine how your group will communicate with each other. This is not an individual effort. Make sure everyone feels comfortable with the identified methods of speaking up.*
 
-  > Main hours: 9a - 5p; with flexible outside hours as needed.
-  >
-  > Use Slack as needed.
-  >
-  > Be in classroom as needed through lunches if available.
-  >
-  > Prioritize main functionality of site before stretch goals & design.
+  > * Main hours: 9a - 5p; with flexible outside hours as needed.
+  > * Use Slack as needed.
+  > * Be in classroom as needed & through lunch if available.
+  > * Prioritize main functionality of site before stretch goals & design.
 
 _____
 
 ## Work Plan
 
-Explain your work plan to track whether everyone is contributing equally to all parts of the project, and that each person is working on “meaty” problems. This should prevent “lone wolf” efforts and “siloed” efforts.
+*Explain your work plan to track whether everyone is contributing equally to all parts of the project, and that each person is working on “meaty” problems. This should prevent “lone wolf” efforts and “siloed” efforts.*
 
-> Utilize Trello to break down tasks into small, manageable chunks.
->
-> Take ownership of task/feature you feel confident working on, but be mindful of time-boxing and speaking up when struggling for too long.
->
-> Try Pair-Programming when stuck on a feature.
+> * Utilize Trello to break down tasks into small, manageable chunks.
+> * Take ownership of task/feature you feel confident working on, but be mindful of time-boxing and speaking up when struggling for too long.
+> * Try Pair-Programming when stuck on a feature.
 
 _____
 
 ## Git Process
 
-Plan out what your team’s Git workflow looks like for coding tasks.
-
-*Describe at least:*
+*Plan out what your team’s Git workflow looks like for coding tasks.*
 
 * What components of your project will live on GitHub?
   > Frontend & Backend Repo(s).
