@@ -6,9 +6,10 @@ _____
 
 [Project Pitch](pitch.md) &middot;
 [Project Guidelines](https://mistidinzy.github.io/301-ProjectPlanning/project-guidelines.html) &middot;
-[Project Requirements](https://mistidinzy.github.io/301-ProjectPlanning/project-guidelines.html#grading) &middot;
-[Resources](https://mistidinzy.github.io/301-ProjectPlanning/resources.html) &middot;
-[Trello](https://trello.com/b/KuDlJ9PD/301-project)
+[Project Requirements](https://mistidinzy.github.io/301-ProjectPlanning/project-guidelines.html#grading)
+
+[Trello](https://trello.com/b/KuDlJ9PD/301-project) &middot;
+[Resources](https://mistidinzy.github.io/301-ProjectPlanning/resources.html)
 
 _____
 
