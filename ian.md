@@ -4,4 +4,4 @@
 
 ![Ian](/images/Ian.jpeg)
 
-## [Home](https://mistidinzy.github.io/301-ProjectPlanning/)
+[Home](https://projectsandwich.github.io/301-ProjectPlanning/)

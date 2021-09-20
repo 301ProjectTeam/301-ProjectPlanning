@@ -1,6 +1,6 @@
 # Project Sandwich Pitch
 
-[Home](https://301projectteam.github.io/301-ProjectPlanning/)
+[Home](https://projectsandwich.github.io/301-ProjectPlanning/)
 
 ### Summary
 

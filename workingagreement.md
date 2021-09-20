@@ -1,6 +1,6 @@
 # 301 Project Agreement - September 2021
 
-[Home](https://301projectteam.github.io/301-ProjectPlanning/)
+[Home](https://projectsandwich.github.io/301-ProjectPlanning/)
 
 _____
 
