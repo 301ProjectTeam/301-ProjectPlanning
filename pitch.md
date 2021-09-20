@@ -1,6 +1,6 @@
-# Project Pitch 
+# Project Sandwich Pitch
 
-## Sandwich
+[Home](https://301projectteam.github.io/301-ProjectPlanning/)
 
 ### Summary
 
@@ -26,5 +26,3 @@
 * The user can access a fun sandwich trivia page to learn more about the history of the sandwich.
 
 _____
-
-[Home](https://mistidinzy.github.io/301-ProjectPlanning/)
