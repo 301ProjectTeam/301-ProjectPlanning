@@ -7,7 +7,7 @@ _____
 [Project Agreement](workingagreement.md) &middot;
 [Project Pitch](pitch.md) &middot;
 [Project Guidelines](project-guidelines.md) &middot;
-[Project Requirements](https://mistidinzy.github.io/301-ProjectPlanning/project-guidelines.html#grading)
+[Project Requirements](https://projectsandwich.github.io/301-ProjectPlanning/project-guidelines.html#grading)
 
 [Wireframes](wireframes.md) &middot;
 [Trello](https://trello.com/b/KuDlJ9PD/301-project) &middot;
