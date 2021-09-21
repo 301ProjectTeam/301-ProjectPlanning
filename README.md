@@ -22,3 +22,9 @@ For the sandwich aficionado, the search for the best of the best is not as easy 
 This website/app will allow the user to locate the absolute best sandwich in each state of the US. It will also provide a forum for sandwich lovers to share where they had their best sandwich experience.
 
 _____
+
+Links, Collaborators, Etc.
+
+Sandwich Icon - [FlatIcon](www.flaticon.com)
+
+Address to Lat,Lon Converter - [LatLong](https://www.latlong.net/convert-address-to-lat-long.html)
