@@ -23,8 +23,8 @@ This website/app will allow the user to locate the absolute best sandwich in eac
 
 _____
 
-Links, Collaborators, Etc.
+Links, Resources, Etc.
 
-Sandwich Icon - [FlatIcon](www.flaticon.com)
+Deployed on Heroku - [Heroku](https://projectsandwich.herokuapp.com/)
 
-Address to Lat,Lon Converter - [LatLong](https://www.latlong.net/convert-address-to-lat-long.html)
+Sandwich Logo - [FlatIcon](www.flaticon.com)
