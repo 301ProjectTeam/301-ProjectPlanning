@@ -25,6 +25,8 @@ _____
 
 Links, Resources, Etc.
 
+Deployed on Netlify - [projectsandwich.netlify.app](https://projectsandwich.netlify.app/)
+
 Deployed on Heroku - [Heroku](https://projectsandwich.herokuapp.com/)
 
 Sandwich Logo - [FlatIcon](www.flaticon.com)
